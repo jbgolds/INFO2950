@@ -524,3 +524,394 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 Exiting due to channel error.
+1589689980393	Marionette	INFO	Stopped listening on port 57227
+1589689985306	Marionette	INFO	Stopped listening on port 57511
+1589690003261	Marionette	INFO	Stopped listening on port 58830
+1589750917099	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofilePyWb1V"
+1589750917490	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589750917702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589750917703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589750917703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589750917703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589750919185	Marionette	INFO	Listening on port 62320
+1589750919235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1589751113726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofiledQqvLH"
+1589751114059	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589751114268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751114269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751114269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751114269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751115727	Marionette	INFO	Listening on port 62594
+1589751115770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1589751230327	Marionette	INFO	Stopped listening on port 60678
+1589751236605	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofileh2xmTH"
+1589751236917	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589751237137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589751237137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589751237137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589751237137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589751238714	Marionette	INFO	Listening on port 62854
+1589751238754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://s0.2mdn.net/dfp/1751892/4600685219/1539971401761/EN_728x90_Budweiser_NHL_Calgary.js, line 145: TypeError: this.clickTag_btn is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+1589753095711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofileyp0nII"
+1589753096052	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753096267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753096268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753096268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753096268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753097698	Marionette	INFO	Listening on port 65063
+1589753097763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1589753183333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofileAxNRDt"
+1589753183685	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589753183885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589753183885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589753183885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589753183885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589753185361	Marionette	INFO	Listening on port 65422
+1589753185380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: osdlfm is not defined
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://www.nhl.com/player/frank-spring-8449139, line 151: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/elements/html/paloma_fy2019.js, line 12: SyntaxError: An invalid or illegal string was specified
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://www.nhl.com/player/marty-ruff-8457884, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.nhl.com/player/brian-leetch-8448769, line 7: ReferenceError: osdlfm is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1589756527451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofileDG3xSp"
+1589756527838	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756528063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756528064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756528064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756528064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589756529615	Marionette	INFO	Listening on port 53895
+1589756529700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589756545311	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofile9a7L74"
+1589756545636	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756545848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756545848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756545848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756545848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589756547309	Marionette	INFO	Listening on port 54010
+1589756547353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589756591651	Marionette	INFO	Stopped listening on port 60942
+1589756595274	Marionette	INFO	Stopped listening on port 61186
+1589756597244	Marionette	INFO	Stopped listening on port 61622
+1589756604544	Marionette	INFO	Stopped listening on port 61860
+1589756611970	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/35/hyy7zy6x4rv3qz1zxbnf2sqh0000gn/T/rust_mozprofile69pH3Z"
+1589756612281	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589756612490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589756612490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589756612490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589756612490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589756613959	Marionette	INFO	Listening on port 54121
+1589756614010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js.gz, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://www.nhl.com/player/steve-vickers-8452232, line 15: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.nhl.com/player/greg-carroll-8445981, line 21: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: https://www.nhl.com/player/greg-carroll-8445981, line 15: TypeError: hiddenFrame.contentWindow is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.nhl.com/player/bill-derlago-8446363, line 151: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://datam26.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=81250620643&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fsteven-smith-8451559&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fsteven-smith-8451559&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://datam05.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=6032921654&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_eb2558c&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fmarty-ruff-8457884&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=eb2558c&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fmarty-ruff-8457884&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2020-05-12%2012%3A16%3A04&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0&id20=eb2558c, line 7: TypeError: nodeElement is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.nhl.com/player/steve-yzerman-8452578, line 151: uncaught exception: undefined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://www.nhl.com/player/normand-lacombe-8448603, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://www.nhl.com/player/bruce-cassidy-8446018, line 151: uncaught exception: undefined
+JavaScript error: https://www.nhl.com/player/nevin-markwart-8449168, line 151: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://datam12.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=3684432141&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_2%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjim-sandlak-8451119&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjim-sandlak-8451119&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://datam21.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=27966308925&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_2%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Ftrevor-linden-8448825&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Ftrevor-linden-8448825&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://datam23.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=94548619528&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjeremy-roenick-8450978&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjeremy-roenick-8450978&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.nhl.com/player/grant-marshall-8458959, line 151: uncaught exception: 7
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://www.nhl.com/player/landon-wilson-8459441, line 21: TypeError: hiddenFrame.contentWindow is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+JavaScript error: https://datam12.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=42102782063&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269669655_ADLOOX_ID_1891401_ADLOOX_ID_130139771_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fdaymond-langkow-8462036&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269669655%26id4%3D1891401%26id5%3D130139771%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fdaymond-langkow-8462036&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=49&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269669655&id4=1891401&id5=130139771&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://datam24.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=16515494110&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_1%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fkyle-mclaren-8462040&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fkyle-mclaren-8462040&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.nhl.com/player/jamie-lundmark-8467882, line 21: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: https://datam22.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=5281142954&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_1%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Frostislav-klesla-8468484&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Frostislav-klesla-8468484&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.nhl.com/player/dan-hamhuis-8469465, line 15: TypeError: hiddenFrame.contentWindow is null
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://datam15.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=76591017992&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269338514_ADLOOX_ID_1891401_ADLOOX_ID_130139768_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fkenndal-mcardle-8471694&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269338514%26id4%3D1891401%26id5%3D130139768%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fkenndal-mcardle-8471694&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269338514&id4=1891401&id5=130139768&id6=0, line 7: TypeError: nodeElement is null
+JavaScript error: https://www.nhl.com/player/matt-pelech-8471700, line 1: ReferenceError: osdlfm is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://static.adsafeprotected.com/main.gr.19.8.78.js, line 99: NS_ERROR_FAILURE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://s0.2mdn.net/dfp/1751892/4600685219/1539968828405/EN_970x66_Budweiser_NHL_Calgary.js, line 151: TypeError: this.clickTag_btn is undefined
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://datam01.adlooxtracking.com/ads/ic.php?adloox_io=1&campagne=160&banniere=0&plat=7&adloox_transaction_id=null&bp=&visite_id=53118817839&client=sap&ctitle=&id_editeur=4531883_ADLOOX_ID_23696917_ADLOOX_ID_269669655_ADLOOX_ID_1891401_ADLOOX_ID_130139771_ADLOOX_ID_0_ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID__ADLOOX_ID_&os=&navigateur=&appname=Netscape&timezone=240&fai=google_ads_iframe_%2F21668666170%2Fnhl_web_en%2Fplayers_0%40https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjoe-morrow-8476476&alerte=&alerte_desc=&data=1769902042ttttttttttffffttttftfffffttfttttf&js=https%3A%2F%2Fam.adlooxtracking.com%2Fads%2Fjs%2Ftfav_adl_160.js%23platform%3D7%26scriptname%3Dadl_160%26tagid%3D1054%26typejs%3Dtvaf%26fwtype%3D1%26creatype%3D2%26targetelt%3D%26custom2area%3D80%26custom2sec%3D3%26id1%3D4531883%26id2%3D23696917%26id3%3D269669655%26id4%3D1891401%26id5%3D130139771%26id6%3D0&commitid=-dirty&fw=1&version=1&iframe=3&hadnxs=&ua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A76.0%29%20Gecko%2F20100101%20Firefox%2F76.0&url_referrer=https%3A%2F%2Fwww.nhl.com%2Fplayer%2Fjoe-morrow-8476476&resolution=1280x800&nb_cpu=4&nav_lang=en-US&date_regen=2019-03-20%2011%3A04%3A30&debug=7%3A%20top%20%21%3D%20window%20%26%20friendly%20-%3E%20location.href%20&ao=&fake=001000&popup_history=50&popup_visible=true&type_crea=2&tagid=1054&popup_menubar=true&popup_locationbar=true&popup_personalbar=true&popup_scrollbars=false&popup_statusbar=true&popup_toolbar=true&id1=4531883&id2=23696917&id3=269669655&id4=1891401&id5=130139771&id6=0, line 7: TypeError: nodeElement is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://www-league.nhlstatic.com/nhl.com/builds/site-core/d7b71b1f9618bc99b318310b894f5e60a533547c_1588189185/scripts/site-core.js, line 20: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200511/r20110914/elements/html/paloma_fy2019.js, line 12: SyntaxError: An invalid or illegal string was specified
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: https://cdn.ampproject.org/rtv/012005012256000/v0/amp-analytics-0.1.js, line 119: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.2a008290075125adde2d7b849b06a0bb.html?origin=https%3A%2F%2Fwww.nhl.com, line 12: Error: Network error.
